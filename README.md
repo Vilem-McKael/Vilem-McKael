@@ -2,7 +2,7 @@
 
 ### My name is Vilem McKael Lehmann Boddicker, and I'm a frontend / full stack web developer from Los Angeles, CA. Thanks for checking out my GitHub!
 
-#### I am passionate about the projects that I work on, and unsurprisingly most of these repositories consist of passion projects I have built or in the process of building.
+#### I am passionate about the projects that I work on, and unsurprisingly most of these repositories consist of passion projects I have built or am in the process of building.
 
 ### I build web applications using the following languages, frameworks, and tools:
 
