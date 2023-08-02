@@ -4,8 +4,8 @@
 
 #### I am passionate about the projects that I work on, and unsurprisingly most of these repositories consist of passion projects I have built or am in the process of building.
 
-### I build web applications using the following languages, frameworks, and tools:
-
+### I build web applications using the following languages, frameworks, and tools:  
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
